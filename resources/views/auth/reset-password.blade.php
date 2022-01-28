@@ -71,9 +71,11 @@
         </div>
       </form>
 
-      <p class="mt-3 mb-1">
-        <a href="login.html">Login</a>
-      </p>
+      <div class="text-center"> 
+        <p class="mb-0 ">
+          Cancelled?<a href="/login">Login</a>
+        </p>
+      </div>
     </div>
     <!-- /.login-card-body -->
   </div>
